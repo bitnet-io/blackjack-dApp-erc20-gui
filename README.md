@@ -1,3 +1,5 @@
+# CODE IS BROKEN AND INSANE I AM JUST EXAMINING FOR MY OWN IDEAS
+
 Blackjack - on-chain payment integrated blackjack game dApp (on Goerli Testnet)
 
 
